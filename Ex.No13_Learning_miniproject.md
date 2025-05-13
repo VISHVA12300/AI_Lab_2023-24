@@ -1,6 +1,6 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 Learning – Medical Diagnosis System
 ### DATE: 13/05/2025                                                                        
-### REGISTER NUMBER : 212222040163
+### REGISTER NUMBER : 212222040182
 ---
 ### AIM: 
 To write a program to train the classifier for Linear Regression, Support Vector Model, Logistic Regression, Random Forest, etc.
@@ -196,6 +196,8 @@ joblib.dump(model, "parkinsons_model.sav")
 
 
 ## Output:
+![WhatsApp Image 2025-05-13 at 11 42 23_069ddd05](https://github.com/user-attachments/assets/b5cd0c06-9b51-45cb-967e-1b1d7261fab5)
+
 
 
 
